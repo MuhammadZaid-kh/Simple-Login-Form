@@ -4,7 +4,7 @@ A clean, minimalist, and responsive Login Form built using **HTML5** and **CSS3*
 
 ## 🚀 Live Demo
 You can view the live site here:
-`https://[your-username].github.io/[your-repo-name]/`
+`https://muhammadzaid-kh.github.io/Simple-Login-Form/`
 
 ## ✨ Features
 * **Responsive Design:** Uses Flexbox to ensure the form is centered and looks great on all screens.
@@ -23,4 +23,5 @@ You can view the live site here:
 To run this project locally:
 1. Clone the repository:
    ```bash
-   git clone [https://muhammadzaid-kh.github.io/Simple-Login-Form/]
+   git clone https://muhammadzaid-kh.github.io/Simple-Login-Form/
+
